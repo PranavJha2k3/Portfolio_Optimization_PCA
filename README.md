@@ -6,8 +6,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Introduction
 This project focuses on optimizing a financial portfolio using Principal Component Analysis (PCA). PCA is a statistical technique that transforms the original variables of a dataset into a new set of uncorrelated variables called principal components. By using PCA, we can reduce the dimensionality of the dataset while retaining the most important information, which is particularly useful in portfolio optimization.
